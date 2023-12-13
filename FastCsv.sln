@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCSVUI", "FastCSVUI\FastCSVUI.csproj", "{CD686165-BC65-4A88-8FE9-95DA4313481C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD686165-BC65-4A88-8FE9-95DA4313481C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD686165-BC65-4A88-8FE9-95DA4313481C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD686165-BC65-4A88-8FE9-95DA4313481C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD686165-BC65-4A88-8FE9-95DA4313481C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFA2FB9-02E3-4A5B-BCEB-2FD34B8C7F24}
+	EndGlobalSection
+EndGlobal
